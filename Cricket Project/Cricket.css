@@ -1,0 +1,29 @@
+      body {
+        text-align: center;
+        border: 2px solid black;
+        height: 600px;
+        margin: 20px;
+        border-radius: 25px;
+      }
+
+      .container {
+        position: relative;
+        text-align: center;
+        color: black;
+        cursor: pointer;
+        /* margin: 10px; */
+      }
+
+      .centered {
+        position: absolute;
+        font-size: medium;
+        top: 97%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+
+      }
+
+      /* .reset_button{
+          margin-block-end: 50px;
+
+      } */
